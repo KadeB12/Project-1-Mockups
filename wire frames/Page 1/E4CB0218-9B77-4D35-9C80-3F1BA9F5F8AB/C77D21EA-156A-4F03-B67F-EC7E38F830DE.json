@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 21,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Your Account Email Is"
+    "string": "Your Account Email has been recovered"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 165,
+    "width": 222,
     "x": 73,
     "y": 208
   },
-  "glyphBounds": "{{0, 2}, {116, 10}}",
+  "glyphBounds": "{{0, 2}, {213, 10}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +59,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Label",
+  "name": "Your Account Email h",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

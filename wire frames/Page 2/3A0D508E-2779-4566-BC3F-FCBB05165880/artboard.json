@@ -59,6 +59,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "D0E89145-9CBD-424C-B3F5-3AB15B4CFB1F"
+    },
+    {
+      "class": "symbolInstance",
       "id": "C5F81EC7-EBE1-4BF4-AB22-E5EA373E2FD1"
     },
     {
@@ -74,8 +78,8 @@
       "id": "880982F8-DB12-4DB1-9916-2C7C6D4F8D71"
     },
     {
-      "class": "symbolInstance",
-      "id": "176D44D6-D845-4ACB-9520-34CDFCF6419C"
+      "class": "group",
+      "id": "96B46DD8-5C69-48B7-AE37-02B1DB2CDEB5"
     },
     {
       "class": "symbolInstance",

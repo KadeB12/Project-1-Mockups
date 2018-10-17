@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "92022E9B-398B-4366-A93B-DB5FBF850D00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "771B57B3-08AB-4D47-B98A-CB0169ABA5CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6206577F-DF54-4082-8F0E-8EE0F62F73D2",
+    "height": 25,
+    "width": 21,
+    "x": 42,
+    "y": 227
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Icon/phone",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FACB2498-F905-4AF2-A4B9-EA1AF69DAEED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "34E7AFC4-E2C4-433D-BA0E-CF7FAF9FA143",
+  "verticalSpacing": 0
+}

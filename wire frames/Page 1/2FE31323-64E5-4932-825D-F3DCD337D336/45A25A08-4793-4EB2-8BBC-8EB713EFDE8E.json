@@ -18,7 +18,7 @@
     "do_objectID": "40665C13-A7B2-44BC-9575-0472AB32A5F9",
     "height": 64,
     "width": 284,
-    "x": 48,
+    "x": 46,
     "y": 420
   },
   "horizontalSpacing": 0,
@@ -36,6 +36,12 @@
       "do_objectID": "C120D816-5FCA-4FD7-B2E9-161EE948760F",
       "overrideName": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546_stringValue",
       "value": "SEND TEXT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51D8B8EF-E857-49CA-BBC5-0F7FF561893F",
+      "overrideName": "1AD521A9-C6FE-43BF-B55C-AAC4AC59CFB6_symbolID",
+      "value": "69DD933A-BC46-4500-AD83-411744C30400"
     }
   ],
   "resizingConstraint": 63,
@@ -70,7 +76,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "9D2B4EEC-6E12-4B35-8EE9-071CC3DB52D2",
+      "targetArtboardID": "6302E289-16A4-4788-AF44-2AB09BCE0CF4",
       "transition": 0
     }
   },

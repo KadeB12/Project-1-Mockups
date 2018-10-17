@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5DA4A4CD-30B0-43C0-9B88-B5D1C9B466AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3641D3FD-F697-4043-8177-9E9D7291FC8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8975E897-1000-4255-B033-6AE8ECD6BB12",
+    "height": 50,
+    "width": 350,
+    "x": 13,
+    "y": 286
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/text,input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72995ABF-B084-46BE-9A3A-2FC7C9538565",
+      "overrideName": "1FCCF618-79A8-4317-ACD2-65EA10B354FE_stringValue",
+      "value": "Name "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3926AFF9-01E5-41DA-91E2-9B66214340C2",
+      "overrideName": "57549819-3E42-495F-B418-CFFE3CBA946A_stringValue",
+      "value": "Your Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C01F94B1-AB0B-43B2-9526-2641F594DF39",
+      "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A951003A-AA34-438D-9997-2BB8BFAA0BF0",
+      "overrideName": "FF4DD486-28D7-4BB3-AB19-D48A54EA6B43_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1FE29D1-D2B9-4B87-9373-D318980E2BD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E878493C-21C4-4EC3-8F8A-5A4C05202CA5",
+  "verticalSpacing": 0
+}

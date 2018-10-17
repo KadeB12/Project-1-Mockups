@@ -17,9 +17,9 @@
     "constrainProportions": false,
     "do_objectID": "C66167EC-5906-43BD-87F8-23D578717E57",
     "height": 181,
-    "width": 298,
-    "x": 42,
-    "y": 49
+    "width": 375,
+    "x": 0,
+    "y": 69
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "9951E13A-C285-4844-A9F7-6B85867C1C30",
       "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
-      "value": "Password Reset"
+      "value": "PASSWORD RESET"
     }
   ],
   "resizingConstraint": 63,

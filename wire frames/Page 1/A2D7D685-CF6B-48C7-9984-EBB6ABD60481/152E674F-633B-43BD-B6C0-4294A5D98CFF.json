@@ -18,7 +18,7 @@
     "do_objectID": "5AAF39DF-DF61-49EF-A15D-2A71A1271141",
     "height": 64,
     "width": 267,
-    "x": 53,
+    "x": 54,
     "y": 419
   },
   "horizontalSpacing": 0,
@@ -36,6 +36,12 @@
       "do_objectID": "C120D816-5FCA-4FD7-B2E9-161EE948760F",
       "overrideName": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546_stringValue",
       "value": "SIGN IN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A592E87F-8206-4200-96EC-1D34DEC0829B",
+      "overrideName": "1AD521A9-C6FE-43BF-B55C-AAC4AC59CFB6_symbolID",
+      "value": "69DD933A-BC46-4500-AD83-411744C30400"
     }
   ],
   "resizingConstraint": 63,

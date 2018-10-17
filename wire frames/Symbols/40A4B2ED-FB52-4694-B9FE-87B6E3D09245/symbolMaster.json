@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7534,
+  "changeIdentifier": 7780,
   "do_objectID": "40A4B2ED-FB52-4694-B9FE-87B6E3D09245",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,10 +53,6 @@
     {
       "class": "text",
       "id": "6A882D05-2E76-4C8B-B145-3D419BCCAB78"
-    },
-    {
-      "class": "text",
-      "id": "3CF6E349-8AFA-4F92-9BF9-42CDBBB955E6"
     },
     {
       "class": "text",

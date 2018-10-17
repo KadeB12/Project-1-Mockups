@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9EDC05FA-3241-4AFA-BEF5-1161130BB336",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5418A617-159E-4AC6-B4F6-B16376EBD00F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D0DEDCE-8B62-4A3F-A6F6-C207B86D8CD8",
+    "height": 181,
+    "width": 375,
+    "x": 0,
+    "y": 71
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9951E13A-C285-4844-A9F7-6B85867C1C30",
+      "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
+      "value": "EMAIL RECOVERY"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD95D02E-0D77-4140-8540-49A72039A4FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3074E86-D65E-4A8B-BC4F-ED4A1617F9CA",
+  "verticalSpacing": 0
+}

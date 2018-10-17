@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 267,
-    "x": 51,
+    "x": 54,
     "y": 423
   },
   "horizontalSpacing": 0,
@@ -34,6 +34,12 @@
       "do_objectID": "2EAC9B40-1681-44DB-9FBC-D41B9621A45A",
       "overrideName": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546_stringValue",
       "value": "RESET PASSWORD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87AF68D3-4A7C-4204-8AD5-096B1A2EAF06",
+      "overrideName": "1AD521A9-C6FE-43BF-B55C-AAC4AC59CFB6_symbolID",
+      "value": "69DD933A-BC46-4500-AD83-411744C30400"
     }
   ],
   "resizingConstraint": 63,
@@ -67,7 +73,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "C424E686-67E4-4B44-A72E-7B8D62588AF7",
+      "targetArtboardID": "0180768F-5199-4FE1-B6CF-C52E606D43E8",
       "transition": 0
     }
   },

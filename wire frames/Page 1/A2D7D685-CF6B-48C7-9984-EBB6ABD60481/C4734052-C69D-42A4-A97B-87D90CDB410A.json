@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 50,
     "width": 350,
-    "x": 12,
+    "x": 13,
     "y": 300
   },
   "horizontalSpacing": 0,
@@ -40,6 +40,12 @@
       "do_objectID": "04F79EE7-E33A-4FD4-A45B-8BFE77EC5915",
       "overrideName": "5DD85739-870C-483A-A89E-0FA669DF9C8E_stringValue",
       "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36077C85-BF45-44EA-9BA4-8630BB75BF00",
+      "overrideName": "6A882D05-2E76-4C8B-B145-3D419BCCAB78_stringValue",
+      "value": "Your Password"
     }
   ],
   "resizingConstraint": 63,

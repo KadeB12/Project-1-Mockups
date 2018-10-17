@@ -35,7 +35,7 @@
     "do_objectID": "B42F8FB9-D8C0-443F-A70E-8868124C8FB3",
     "height": 667,
     "width": 375,
-    "x": 3379,
+    "x": 3145,
     "y": -234
   },
   "hasBackgroundColor": true,
@@ -66,16 +66,16 @@
       "id": "FC6D26F1-58AA-442E-85AA-B4F9F960062B"
     },
     {
-      "class": "symbolInstance",
-      "id": "DB52B050-C96C-4FF0-954E-613FAE4E1412"
-    },
-    {
       "class": "text",
       "id": "998875D7-F6CE-4FC0-92A1-20156CCCA63B"
     },
     {
       "class": "symbolInstance",
       "id": "DA2A78D1-615E-4D90-B348-96DAC6574BCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B05C6A6D-0F61-4523-816F-E7D5A607B52F"
     }
   ],
   "layout": {

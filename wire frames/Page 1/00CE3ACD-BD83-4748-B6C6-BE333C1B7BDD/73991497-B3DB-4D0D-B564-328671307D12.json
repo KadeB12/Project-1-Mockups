@@ -18,8 +18,8 @@
     "do_objectID": "CC74463F-F59F-4565-8295-CE32FFAF4273",
     "height": 64,
     "width": 267,
-    "x": 57,
-    "y": 427
+    "x": 54,
+    "y": 421
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -36,6 +36,12 @@
       "do_objectID": "C120D816-5FCA-4FD7-B2E9-161EE948760F",
       "overrideName": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546_stringValue",
       "value": "SIGN UP"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52194236-64AC-4DE2-9D35-1E948C5B02A9",
+      "overrideName": "1AD521A9-C6FE-43BF-B55C-AAC4AC59CFB6_symbolID",
+      "value": "69DD933A-BC46-4500-AD83-411744C30400"
     }
   ],
   "resizingConstraint": 63,

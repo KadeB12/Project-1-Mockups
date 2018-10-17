@@ -39,7 +39,7 @@
     "y": -234
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -84,6 +84,10 @@
     {
       "class": "symbolInstance",
       "id": "0B545AC0-A297-4D5C-A252-DAC823ABD7FA"
+    },
+    {
+      "class": "text",
+      "id": "7EF35CED-CDEA-4423-9E39-DA2CD3AA5309"
     }
   ],
   "layout": {
@@ -102,8 +106,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 355
   },
-  "name": "iPhone 8 Copy 7",
-  "nameIsFixed": false,
+  "name": "Account Email",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

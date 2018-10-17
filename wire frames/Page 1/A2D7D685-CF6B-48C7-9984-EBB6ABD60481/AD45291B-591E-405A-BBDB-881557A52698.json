@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 50,
     "width": 350,
-    "x": 12,
+    "x": 13,
     "y": 209
   },
   "horizontalSpacing": 0,
@@ -34,6 +34,12 @@
       "do_objectID": "AE9B2E41-FF07-4827-B35F-CEF0E032E516",
       "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
       "value": "Forgot Email?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0EC605B-480E-4D95-926B-EF0620631BE7",
+      "overrideName": "57549819-3E42-495F-B418-CFFE3CBA946A_stringValue",
+      "value": "Your Email"
     }
   ],
   "resizingConstraint": 63,
