@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "16FAACD3-CAE0-4FBF-8CDD-A076161BE236",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "487D9C9C-E5F5-4836-A251-DDABED7AC2C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF23F2FF-93FE-4FBF-88CB-4D9F592D6C07",
+    "height": 121,
+    "width": 296,
+    "x": 42,
+    "y": 49
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9951E13A-C285-4844-A9F7-6B85867C1C30",
+      "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
+      "value": "Account Recovery"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF52E342-2D2F-41DC-AB70-4838CC7F5180",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3074E86-D65E-4A8B-BC4F-ED4A1617F9CA",
+  "verticalSpacing": 0
+}

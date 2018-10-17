@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "85570C0E-21A7-453C-B486-2EF7A43D5D70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7658F517-015F-41F3-96C4-32AA6E3DD912",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9BE1447-3DF0-42CB-B525-0A5150CE3731",
+    "height": 128,
+    "width": 303,
+    "x": 36,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9951E13A-C285-4844-A9F7-6B85867C1C30",
+      "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
+      "value": "Create New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BE409C3-0A21-4948-A4DA-10264BF8D1EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3074E86-D65E-4A8B-BC4F-ED4A1617F9CA",
+  "verticalSpacing": 0
+}

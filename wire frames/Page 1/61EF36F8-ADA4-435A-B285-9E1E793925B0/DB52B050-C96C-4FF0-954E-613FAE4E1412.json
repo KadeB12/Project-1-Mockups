@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DB52B050-C96C-4FF0-954E-613FAE4E1412",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DED76BC-ECC5-451C-B1D2-3B112EF73CA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B18CB47-A0E4-481B-87CE-314F811B406E",
+    "height": 64,
+    "width": 284,
+    "x": 45,
+    "y": 327
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C120D816-5FCA-4FD7-B2E9-161EE948760F",
+      "overrideName": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546_stringValue",
+      "value": "SEND CONFIRMATION"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C30B90F0-5D61-475F-A5F7-1799CF1D473D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "502BE43E-ADA6-4CAC-AA34-5EF6447CC40B",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "F5F95676-624A-4C03-8171-DD981534C6FE",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

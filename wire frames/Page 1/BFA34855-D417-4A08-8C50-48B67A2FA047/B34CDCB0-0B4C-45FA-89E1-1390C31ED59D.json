@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B34CDCB0-0B4C-45FA-89E1-1390C31ED59D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C167440-8019-439E-9160-01446C53F771",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F0FF0C1-62F3-46BD-9A7D-82E8ABDE866A",
+    "height": 64,
+    "width": 267,
+    "x": 57,
+    "y": 523
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C120D816-5FCA-4FD7-B2E9-161EE948760F",
+      "overrideName": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546_stringValue",
+      "value": "SIGN UP"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "564B94DE-61DA-4A23-BD7E-734F54706CA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "502BE43E-ADA6-4CAC-AA34-5EF6447CC40B",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "00CE3ACD-BD83-4748-B6C6-BE333C1B7BDD",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

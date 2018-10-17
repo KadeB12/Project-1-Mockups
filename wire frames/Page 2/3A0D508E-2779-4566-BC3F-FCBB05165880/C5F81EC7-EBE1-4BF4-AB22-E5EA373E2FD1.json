@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C5F81EC7-EBE1-4BF4-AB22-E5EA373E2FD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A69CF745-3EEA-4C70-A587-15FB1C4A87AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE5C0012-F2FD-461A-9FC8-6ACB4208B079",
+    "height": 81,
+    "width": 350,
+    "x": 12,
+    "y": 184
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/text,input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6DD00CD-16D2-4CA9-B0AE-A98A51F40818",
+      "overrideName": "1FCCF618-79A8-4317-ACD2-65EA10B354FE_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F55C7257-9855-4F73-BA90-85A144F9C0F0",
+      "overrideName": "57549819-3E42-495F-B418-CFFE3CBA946A_stringValue",
+      "value": "kadebarranco@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CB6C6E1-7904-413A-AC64-219358FF0DC0",
+      "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3C28B97-7547-484A-B5EF-5CA18571E62B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E878493C-21C4-4EC3-8F8A-5A4C05202CA5",
+  "verticalSpacing": 0
+}

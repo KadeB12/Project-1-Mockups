@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E1A476B7-C665-481C-BE7D-C0CB25120E51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F052BB95-CA1B-46DD-8F71-1F8F5E8EC353",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A6412CE-1FF9-4D57-B093-7E5F6213C1F9",
+    "height": 181,
+    "width": 303,
+    "x": 31,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A3342E5-10BC-4CF5-9AC7-96D2E428D0AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3074E86-D65E-4A8B-BC4F-ED4A1617F9CA",
+  "verticalSpacing": 0
+}

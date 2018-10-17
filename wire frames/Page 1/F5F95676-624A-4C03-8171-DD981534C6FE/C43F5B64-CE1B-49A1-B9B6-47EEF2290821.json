@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C43F5B64-CE1B-49A1-B9B6-47EEF2290821",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90F01223-0132-44B2-B67E-6272103A8ACA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FCC6204-C765-42EE-9C0F-18FBA369D19B",
+    "height": 81,
+    "width": 350,
+    "x": 12,
+    "y": 183
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/text,input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5ABF2C6D-9C74-4321-9C93-E41AB34F0AC1",
+      "overrideName": "57549819-3E42-495F-B418-CFFE3CBA946A_stringValue",
+      "value": "*****************"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB0294C5-EBCA-47F7-B85E-A791099825BF",
+      "overrideName": "1FCCF618-79A8-4317-ACD2-65EA10B354FE_stringValue",
+      "value": "New Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54929DA4-EA17-46BD-9B0D-0C9CE744C66F",
+      "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49DF1BE4-C025-4999-8B75-45FBC7F69DE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E878493C-21C4-4EC3-8F8A-5A4C05202CA5",
+  "verticalSpacing": 0
+}
