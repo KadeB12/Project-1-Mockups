@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6959A17E-D7E6-4D4F-A4CB-B9B60D84CF32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E52D3670-3D05-42AB-9762-A02D2BDFC5FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "600E0A18-D4C1-4CB1-902D-3D4F2A4037AB",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone 8 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7FE058F-372D-46B4-96D0-640645A53D30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A282C6EF-267C-447C-B223-33DB98CED469",
+  "verticalSpacing": 0
+}

@@ -1,7 +1,7 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "B00D09F8-FB7C-40C4-9ABB-0E0778B3CDFD",
+  "do_objectID": "667085DB-7EFA-486D-95E8-7B50C41BFBC2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,24 +16,27 @@
     "constrainProportions": false,
     "height": 22,
     "width": 20,
-    "x": 0,
-    "y": 0
+    "x": 24,
+    "y": 17
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6C7572C0-A572-4908-8571-8F98B7DDF872"
+    }
+  ],
   "name": "Atom/Icon/Password",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -41,7 +44,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B89A1448-B344-4CE3-BCC5-B64109DDE8FF",
-  "verticalSpacing": 0
+  }
 }

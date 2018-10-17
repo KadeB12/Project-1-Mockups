@@ -67,10 +67,6 @@
       "id": "E6C3E995-FC6D-42AF-86F6-7C8649913CF4"
     },
     {
-      "class": "symbolMaster",
-      "id": "652017AF-5FEC-4631-99BE-84C6F810887F"
-    },
-    {
       "class": "artboard",
       "id": "4537F7DA-1B67-4519-A2F9-B769FD40A047"
     },
@@ -81,6 +77,10 @@
     {
       "class": "symbolMaster",
       "id": "11B90A03-B241-4795-8AB5-2983EB0A3156"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D37E5A15-D63D-4F46-A84B-C9766DEF614B"
     },
     {
       "class": "symbolMaster",

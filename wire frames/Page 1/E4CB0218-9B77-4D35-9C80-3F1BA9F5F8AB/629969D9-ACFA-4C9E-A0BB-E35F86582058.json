@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "05EB854E-1FEC-429B-8F27-B32F614B1ED8",
-    "height": 123,
-    "width": 350,
-    "x": 12,
-    "y": 80
+    "height": 181,
+    "width": 375,
+    "x": 0,
+    "y": 71
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "9951E13A-C285-4844-A9F7-6B85867C1C30",
       "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
-      "value": "Account Email"
+      "value": "ACCOUNT EMAIL"
     }
   ],
   "resizingConstraint": 63,

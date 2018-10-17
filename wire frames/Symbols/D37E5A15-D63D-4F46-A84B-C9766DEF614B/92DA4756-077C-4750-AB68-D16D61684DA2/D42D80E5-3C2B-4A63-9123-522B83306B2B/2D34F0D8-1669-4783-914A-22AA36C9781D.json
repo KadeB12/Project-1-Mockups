@@ -1,11 +1,11 @@
 {
   "_class": "oval",
-  "booleanOperation": 0,
-  "do_objectID": "97C61D32-A206-4FE9-9D67-5ADDEBC7D687",
+  "booleanOperation": -1,
+  "do_objectID": "2D34F0D8-1669-4783-914A-22AA36C9781D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "719121A9-7A3E-459E-89BD-8777CDF452B1",
+    "do_objectID": "DFEB6AB0-AE58-4551-9D8F-4F86F3BDAE3C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D4B50EE2-877E-4CDC-B4B9-074D5E25371C",
-    "height": 64,
-    "width": 64,
-    "x": 203,
+    "do_objectID": "D5A71EA9-5FD5-4BAF-9A41-36A9F04EFDF9",
+    "height": 13,
+    "width": 13,
+    "x": 0,
     "y": 0
   },
   "isClosed": true,
@@ -29,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval Copy",
+  "name": "Path",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [

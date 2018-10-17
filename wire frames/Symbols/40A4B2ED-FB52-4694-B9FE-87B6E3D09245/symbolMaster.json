@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7513,
+  "changeIdentifier": 7534,
   "do_objectID": "40A4B2ED-FB52-4694-B9FE-87B6E3D09245",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,10 +51,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B8BCB9B1-6962-4A24-A399-C6D304C472D8"
-    },
-    {
       "class": "text",
       "id": "6A882D05-2E76-4C8B-B145-3D419BCCAB78"
     },
@@ -67,12 +63,12 @@
       "id": "5DD85739-870C-483A-A89E-0FA669DF9C8E"
     },
     {
-      "class": "symbolInstance",
-      "id": "18257DDF-A3D2-4687-A2B8-1E964B544214"
-    },
-    {
       "class": "shapeGroup",
       "id": "7EB415FE-7266-4CD7-B521-1405AB690FA3"
+    },
+    {
+      "class": "group",
+      "id": "667085DB-7EFA-486D-95E8-7B50C41BFBC2"
     }
   ],
   "name": "Molecule/text,input Copy 4",

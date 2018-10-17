@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BF23F2FF-93FE-4FBF-88CB-4D9F592D6C07",
-    "height": 121,
-    "width": 296,
-    "x": 42,
-    "y": 49
+    "height": 181,
+    "width": 375,
+    "x": 0,
+    "y": 71
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "9951E13A-C285-4844-A9F7-6B85867C1C30",
       "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
-      "value": "Account Recovery"
+      "value": "ACCOUNT RECOVERY"
     }
   ],
   "resizingConstraint": 63,

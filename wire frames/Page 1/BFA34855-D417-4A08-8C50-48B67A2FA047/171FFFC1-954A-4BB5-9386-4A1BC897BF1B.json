@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 181,
-    "width": 303,
-    "x": 36,
-    "y": 76
+    "width": 375,
+    "x": 0,
+    "y": 69
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "4B6E1E17-BC70-429A-A480-F858FE059431",
       "overrideName": "1B67F721-21CB-4C00-9C2A-B2805E265577_stringValue",
-      "value": "Sign Up Now!"
+      "value": "SIGN UP NOW!"
     }
   ],
   "resizingConstraint": 63,

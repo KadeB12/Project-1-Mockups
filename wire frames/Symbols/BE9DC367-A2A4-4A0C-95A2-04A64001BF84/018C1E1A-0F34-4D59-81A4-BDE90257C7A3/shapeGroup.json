@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "41E07DE9-162B-41C7-8534-B8AD88F4F34E",
+  "do_objectID": "018C1E1A-0F34-4D59-81A4-BDE90257C7A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,14 +14,14 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 64,
-    "width": 267,
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 14
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -30,19 +30,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "85ED1156-780B-43C8-A50F-585E010E0395"
-    },
-    {
-      "class": "oval",
-      "id": "97C61D32-A206-4FE9-9D67-5ADDEBC7D687"
-    },
-    {
       "class": "rectangle",
-      "id": "7F63819A-5303-480D-839F-0B2055817F59"
+      "id": "0EE23889-54D9-4735-8278-14B73244B087"
     }
   ],
-  "name": "Mask",
+  "name": "Rectangle 8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,8 +54,8 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
-        "thickness": 0
+        "position": 1,
+        "thickness": 1
       }
     ],
     "endMarkerType": 0,
@@ -73,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.9098039215686274,
+          "green": 0.4745098039215687,
+          "red": 0.5176470588235296
         },
         "fillType": 0,
         "isEnabled": true,
