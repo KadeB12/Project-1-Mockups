@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "6C4DA603-C477-431E-87EF-B9BD18ED6F48",
+  "changeIdentifier": 3,
+  "do_objectID": "11B90A03-B241-4795-8AB5-2983EB0A3156",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 78,
-    "width": 110,
-    "x": -55,
-    "y": -7
+    "height": 31,
+    "width": 26,
+    "x": 2129,
+    "y": 124
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,11 +47,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "B00D09F8-FB7C-40C4-9ABB-0E0778B3CDFD"
+      "class": "group",
+      "id": "73595BBE-112C-4A57-B7A2-3F6AB7434D50"
     }
   ],
-  "name": "Artboard",
+  "name": "Atom/Icon/phone",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "34E7AFC4-E2C4-433D-BA0E-CF7FAF9FA143",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

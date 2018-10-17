@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4FCC6204-C765-42EE-9C0F-18FBA369D19B",
-    "height": 81,
+    "height": 50,
     "width": 350,
     "x": 12,
-    "y": 183
+    "y": 204
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -33,21 +33,27 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5ABF2C6D-9C74-4321-9C93-E41AB34F0AC1",
-      "overrideName": "57549819-3E42-495F-B418-CFFE3CBA946A_stringValue",
-      "value": "*****************"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "AB0294C5-EBCA-47F7-B85E-A791099825BF",
       "overrideName": "1FCCF618-79A8-4317-ACD2-65EA10B354FE_stringValue",
       "value": "New Password"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "54929DA4-EA17-46BD-9B0D-0C9CE744C66F",
-      "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
+      "do_objectID": "45C30F94-EEEA-42E5-96D5-FC8B47C0A621",
+      "overrideName": "6A882D05-2E76-4C8B-B145-3D419BCCAB78_stringValue",
+      "value": "*****************"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79151FED-391F-47A8-B23E-DBC25D029FF4",
+      "overrideName": "3CF6E349-8AFA-4F92-9BF9-42CDBBB955E6_stringValue",
       "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F885F8B3-A75C-498D-A221-B94C3726D7B8",
+      "overrideName": "5DD85739-870C-483A-A89E-0FA669DF9C8E_stringValue",
+      "value": " New Password"
     }
   ],
   "resizingConstraint": 63,
@@ -63,6 +69,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E878493C-21C4-4EC3-8F8A-5A4C05202CA5",
+  "symbolID": "BC76B741-F382-4C8E-816D-C2F2223E8CC2",
   "verticalSpacing": 0
 }

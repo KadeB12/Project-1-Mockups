@@ -22,18 +22,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "kadebarranco@gmail.com"
+    "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "317994A2-B7ED-4F02-9C76-41078FF5216D",
+  "do_objectID": "6A882D05-2E76-4C8B-B145-3D419BCCAB78",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F2346385-164F-491D-886B-D42086570FE7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -44,12 +45,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "6E586566-A691-42F8-9844-FD46F6ABEE83",
     "height": 32,
-    "width": 335,
-    "x": 23,
-    "y": 228
+    "width": 285,
+    "x": 61,
+    "y": 17
   },
-  "glyphBounds": "{{1, 4}, {209, 18}}",
+  "glyphBounds": "{{0, 5}, {126, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,11 +67,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EA7AA152-28BC-44DC-8C77-3320E6D47FCE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "30430470-5EF1-4EE1-8D1E-8F2F6544ACAF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

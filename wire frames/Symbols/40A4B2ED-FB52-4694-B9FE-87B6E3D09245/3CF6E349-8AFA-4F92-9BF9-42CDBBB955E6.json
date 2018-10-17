@@ -25,18 +25,19 @@
             "alignment": 1
           }
         },
-        "length": 16,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Forget Password?"
+    "string": "Question?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "50EDBF94-A324-4223-B8F9-E5AD9C60357F",
+  "do_objectID": "3CF6E349-8AFA-4F92-9BF9-42CDBBB955E6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "39EEB9EA-2350-4585-BCA3-A66A414157E5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,12 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "44F7DF95-458B-4DE8-8DF3-DD038CD25DAE",
     "height": 21,
     "width": 108,
     "x": 236,
-    "y": 7
+    "y": 3
   },
-  "glyphBounds": "{{11, 2}, {97, 12}}",
+  "glyphBounds": "{{53, 2}, {55, 10}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -68,11 +70,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "733246D9-7072-46ED-B0B3-2635316B8A7C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "D0CDD29E-08F1-49DF-8323-3E50DBB2AA76",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -97,27 +101,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
-  "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "61EF36F8-ADA4-435A-B285-9E1E793925B0",
-      "transition": 0
-    }
-  }
+  "textBehaviour": 2
 }

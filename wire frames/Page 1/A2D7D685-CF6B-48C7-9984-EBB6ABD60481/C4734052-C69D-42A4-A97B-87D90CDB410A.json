@@ -1,7 +1,7 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "9C728633-89F4-4E65-97E7-5AE1788E16AF",
+  "do_objectID": "C4734052-C69D-42A4-A97B-87D90CDB410A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,41 +14,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 65,
+    "height": 50,
     "width": 350,
     "x": 12,
-    "y": 294
+    "y": 300
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Molecule/text,input Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "4F388053-4B3E-48DE-AA7A-99A4A81330F9"
+      "_class": "overrideValue",
+      "do_objectID": "2004157B-AE66-419E-A5B8-24D77F8183B8",
+      "overrideName": "3CF6E349-8AFA-4F92-9BF9-42CDBBB955E6_stringValue",
+      "value": "Forgot Password?"
     },
     {
-      "class": "text",
-      "id": "A2EC55B5-885E-4AEC-B00B-AA1AF65A48D1"
-    },
-    {
-      "class": "text",
-      "id": "227A066E-2AD3-4D83-8F6A-1825B6ECFDCE"
-    },
-    {
-      "class": "text",
-      "id": "50EDBF94-A324-4223-B8F9-E5AD9C60357F"
+      "_class": "overrideValue",
+      "do_objectID": "04F79EE7-E33A-4FD4-A45B-8BFE77EC5915",
+      "overrideName": "5DD85739-870C-483A-A89E-0FA669DF9C8E_stringValue",
+      "value": " "
     }
   ],
-  "name": "Molecule/text,input",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -56,5 +53,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "BC76B741-F382-4C8E-816D-C2F2223E8CC2",
+  "verticalSpacing": 0
 }

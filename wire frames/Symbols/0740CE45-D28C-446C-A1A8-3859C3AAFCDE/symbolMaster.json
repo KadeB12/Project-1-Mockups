@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4660,
+  "changeIdentifier": 5105,
   "do_objectID": "0740CE45-D28C-446C-A1A8-3859C3AAFCDE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 81,
+    "height": 50,
     "width": 350,
     "x": 100,
-    "y": 0
+    "y": 21
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,6 +61,10 @@
     {
       "class": "symbolInstance",
       "id": "FF4DD486-28D7-4BB3-AB19-D48A54EA6B43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA396A06-A2F3-41AC-8751-19A2EBC92336"
     }
   ],
   "name": "Molecule/text,input",

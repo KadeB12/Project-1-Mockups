@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F5DE92D2-05CE-4817-853D-3AB11E1CD1AF",
-    "height": 81,
+    "height": 50,
     "width": 350,
     "x": 12,
-    "y": 184
+    "y": 205
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -47,7 +47,7 @@
       "_class": "overrideValue",
       "do_objectID": "1CB6C6E1-7904-413A-AC64-219358FF0DC0",
       "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
-      "value": "Forget Email?"
+      "value": " "
     }
   ],
   "resizingConstraint": 63,

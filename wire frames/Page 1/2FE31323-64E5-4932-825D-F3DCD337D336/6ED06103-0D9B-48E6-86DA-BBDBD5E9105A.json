@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 81,
+    "height": 50,
     "width": 350,
     "x": 12,
-    "y": 265
+    "y": 286
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -39,13 +39,19 @@
       "_class": "overrideValue",
       "do_objectID": "3926AFF9-01E5-41DA-91E2-9B66214340C2",
       "overrideName": "57549819-3E42-495F-B418-CFFE3CBA946A_stringValue",
-      "value": "Kade Barranco"
+      "value": "Your Name"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "C01F94B1-AB0B-43B2-9526-2641F594DF39",
       "overrideName": "EB47F76B-D7F9-4FE3-A2D7-024CC04FA2EF_stringValue",
       "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A951003A-AA34-438D-9997-2BB8BFAA0BF0",
+      "overrideName": "FF4DD486-28D7-4BB3-AB19-D48A54EA6B43_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

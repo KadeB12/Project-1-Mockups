@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "B00D09F8-FB7C-40C4-9ABB-0E0778B3CDFD",
+  "do_objectID": "87F5209A-7FBD-4B6F-9387-960565AD792D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 31,
-    "x": 40,
-    "y": 17
+    "height": 25,
+    "width": 21,
+    "x": 42,
+    "y": 227
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Atom/Icon/Password",
+  "name": "Atom/Icon/phone",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B89A1448-B344-4CE3-BCC5-B64109DDE8FF",
+  "symbolID": "34E7AFC4-E2C4-433D-BA0E-CF7FAF9FA143",
   "verticalSpacing": 0
 }
