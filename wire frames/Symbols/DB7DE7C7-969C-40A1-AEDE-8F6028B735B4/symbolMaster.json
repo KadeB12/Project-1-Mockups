@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 553,
-  "do_objectID": "D74F9DB0-3878-485C-A7CF-6757A3A84B68",
+  "changeIdentifier": 3,
+  "do_objectID": "DB7DE7C7-969C-40A1-AEDE-8F6028B735B4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 267,
-    "x": 550,
-    "y": 0
+    "height": 65,
+    "width": 309,
+    "x": 2255,
+    "y": -7
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -47,15 +47,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "32791DFA-7F45-4937-8367-5E9D3D85D725"
+      "class": "shapeGroup",
+      "id": "8F487C53-F97D-40DD-B1E1-762644E301DB"
     },
     {
-      "class": "text",
-      "id": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546"
+      "class": "shapeGroup",
+      "id": "E7290AF8-DC8F-4863-9003-DCDC01E7ADAF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56964D0F-F488-4126-A08C-09EDDFB48A9B"
     }
   ],
-  "name": "Molecule/Button",
+  "name": "Molecule/CodeEntryBoxes",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -69,7 +73,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "502BE43E-ADA6-4CAC-AA34-5EF6447CC40B",
+  "symbolID": "5C88EC2A-3991-45C9-8862-2572E3C99292",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

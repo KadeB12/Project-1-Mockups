@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 553,
-  "do_objectID": "D74F9DB0-3878-485C-A7CF-6757A3A84B68",
+  "changeIdentifier": 6,
+  "do_objectID": "67F3DCBD-E91E-447B-8C35-FB7207E90256",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 267,
-    "x": 550,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 1151,
+    "y": 330
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -36,7 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,15 +47,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "32791DFA-7F45-4937-8367-5E9D3D85D725"
-    },
-    {
-      "class": "text",
-      "id": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546"
+      "class": "shapeGroup",
+      "id": "5AD63FA2-35F5-44CA-944C-BB7773274DD6"
     }
   ],
-  "name": "Molecule/Button",
+  "name": "iPhone 8 Copy 3",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -69,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "502BE43E-ADA6-4CAC-AA34-5EF6447CC40B",
+  "symbolID": "A1C5DC19-0311-428F-8144-ABEEE783071B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

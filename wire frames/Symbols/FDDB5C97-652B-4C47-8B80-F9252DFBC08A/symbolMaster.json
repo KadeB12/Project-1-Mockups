@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 553,
-  "do_objectID": "D74F9DB0-3878-485C-A7CF-6757A3A84B68",
+  "changeIdentifier": 6,
+  "do_objectID": "FDDB5C97-652B-4C47-8B80-F9252DFBC08A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 267,
-    "x": 550,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": -104,
+    "y": 330
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -36,7 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,15 +47,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "32791DFA-7F45-4937-8367-5E9D3D85D725"
-    },
-    {
-      "class": "text",
-      "id": "6A9BA4F7-2E6E-4BBA-A3ED-B1FA78513546"
+      "class": "shapeGroup",
+      "id": "1ADC3F72-54F7-4F08-8AD2-0B9A975C1195"
     }
   ],
-  "name": "Molecule/Button",
+  "name": "iPhone 8",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -69,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "502BE43E-ADA6-4CAC-AA34-5EF6447CC40B",
+  "symbolID": "F5329870-D77B-477C-9A49-1D2B84E15DA6",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
