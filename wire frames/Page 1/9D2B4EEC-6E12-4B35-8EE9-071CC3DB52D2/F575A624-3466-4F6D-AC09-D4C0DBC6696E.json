@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "F575A624-3466-4F6D-AC09-D4C0DBC6696E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "x": 46,
     "y": 420
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,7 +78,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "E4CB0218-9B77-4D35-9C80-3F1BA9F5F8AB",
+      "targetArtboardID": "59948FC4-F4B9-49EE-87AC-E1154E1C4C43",
       "transition": 0
     }
   },
