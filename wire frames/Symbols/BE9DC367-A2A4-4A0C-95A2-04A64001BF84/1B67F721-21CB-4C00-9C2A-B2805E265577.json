@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Geneva",
               "size": 36
             }
           },
@@ -52,9 +52,9 @@
     "height": 181,
     "width": 339,
     "x": 20,
-    "y": 13
+    "y": 12
   },
-  "glyphBounds": "{{104, 8}, {130, 28}}",
+  "glyphBounds": "{{108, 7}, {123, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Geneva",
             "size": 36
           }
         },

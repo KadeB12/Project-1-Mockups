@@ -36,6 +36,12 @@
     "x": 832,
     "y": -234
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -90,7 +96,7 @@
     "gutterWidth": 5.583333333333333,
     "guttersOutside": true,
     "horizontalOffset": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 355

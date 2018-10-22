@@ -40,7 +40,7 @@
     "y": -234
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -111,7 +111,7 @@
     "gutterWidth": 5.583333333333333,
     "guttersOutside": true,
     "horizontalOffset": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 355

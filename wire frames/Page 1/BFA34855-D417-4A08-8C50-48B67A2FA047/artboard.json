@@ -36,11 +36,11 @@
     "do_objectID": "4103E8BA-6B9C-4B87-B8C0-C682F07297D7",
     "height": 667,
     "width": 375,
-    "x": 437,
+    "x": 359,
     "y": -234
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "10B53634-A3CA-4ADB-834A-81A85045AD63"
+      "id": "A3054AA4-F682-43B1-9E49-B3CF1D7E7676"
     },
     {
       "class": "symbolInstance",
@@ -86,10 +86,6 @@
     {
       "class": "symbolInstance",
       "id": "171FFFC1-954A-4BB5-9386-4A1BC897BF1B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E5FA725D-2D0B-49E5-BE33-2E2F828D6B2F"
     }
   ],
   "layout": {
@@ -103,7 +99,7 @@
     "gutterWidth": 5.583333333333333,
     "guttersOutside": true,
     "horizontalOffset": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 355
